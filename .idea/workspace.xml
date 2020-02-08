@@ -29,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../djangoapi" />
   </component>
   <component name="RunManager" selected="Python.scrapy4">
     <configuration name="scrapy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -128,21 +129,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="296" key="GridCell.Tab.0.bottom" timestamp="1581150813625">
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1581151486991">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="296" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581150813625" />
-    <state width="1515" height="296" key="GridCell.Tab.0.center" timestamp="1581150813624">
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581151486991" />
+    <state width="1515" height="296" key="GridCell.Tab.0.bottom" timestamp="1581153914866">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="296" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581150813624" />
-    <state width="1515" height="296" key="GridCell.Tab.0.left" timestamp="1581150813624">
+    <state width="1515" height="296" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581153914866" />
+    <state width="1515" height="296" key="GridCell.Tab.0.center" timestamp="1581153914866">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="296" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581150813624" />
-    <state width="1515" height="296" key="GridCell.Tab.0.right" timestamp="1581150813625">
+    <state width="1515" height="296" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581153914866" />
+    <state width="1515" height="296" key="GridCell.Tab.0.left" timestamp="1581153914866">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="296" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581150813625" />
+    <state width="1515" height="296" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581153914866" />
+    <state width="1515" height="296" key="GridCell.Tab.0.right" timestamp="1581153914866">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="296" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581153914866" />
   </component>
 </project>
