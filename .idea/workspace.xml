@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dbe031b-59b2-4569-971f-0628b5ac8dc7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scrapy4.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

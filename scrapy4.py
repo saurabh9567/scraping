@@ -26,5 +26,3 @@ for url in urls:
         value = table_info[i].find_all('td')[1].get_text()
         stock.append(value)
     csv_writer.writerow(stock)
-
-print('saurabh verma')
