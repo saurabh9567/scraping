@@ -1,7 +1,7 @@
 import smtplib
 
 from_add = 'saurabh956@gmail.com'
-to_add = 'saurabhverma956@gmail.com'
+to_add = 'anupam1199@gmail.com'
 
 server = smtplib.SMTP('smtp.gmail.com', 587)
 server.starttls()

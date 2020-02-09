@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dbe031b-59b2-4569-971f-0628b5ac8dc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/send_mail.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrape.csv" beforeDir="false" afterPath="$PROJECT_DIR$/scrape.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/send_mail.py" beforeDir="false" afterPath="$PROJECT_DIR$/send_mail.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +32,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../djangoapi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.send_mail">
     <configuration name="scrapy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -153,25 +155,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1581151486991">
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1581235212815">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581151486991" />
-    <state width="1515" height="296" key="GridCell.Tab.0.bottom" timestamp="1581157692058">
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581235212815" />
+    <state width="745" height="295" key="GridCell.Tab.0.bottom" timestamp="1581246667862">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="296" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581157692058" />
-    <state width="1515" height="296" key="GridCell.Tab.0.center" timestamp="1581157692058">
+    <state width="745" height="295" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581246667862" />
+    <state width="745" height="295" key="GridCell.Tab.0.center" timestamp="1581246667862">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="296" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581157692058" />
-    <state width="1515" height="296" key="GridCell.Tab.0.left" timestamp="1581157692058">
+    <state width="745" height="295" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581246667862" />
+    <state width="745" height="295" key="GridCell.Tab.0.left" timestamp="1581246667862">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="296" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581157692058" />
-    <state width="1515" height="296" key="GridCell.Tab.0.right" timestamp="1581157692058">
+    <state width="745" height="295" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581246667862" />
+    <state width="745" height="295" key="GridCell.Tab.0.right" timestamp="1581246667862">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="296" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581157692058" />
+    <state width="745" height="295" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581246667862" />
+    <state x="327" y="22" key="SettingsEditor" timestamp="1581246968409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="327" y="22" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581246968409" />
   </component>
 </project>
